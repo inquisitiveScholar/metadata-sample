@@ -1,0 +1,13 @@
+{
+    "projectName": "My Awesome Token",
+    "projectDescription": "This is a description of my amazing token airdrop",
+    "chainID": "15257",
+    "tokenAddress": "0x1234567890123456789012345678901234567890",
+    "website": "https://myproject.com",
+    "twitter": "https://twitter.com/myproject",
+    "telegram": "https://t.me/myproject",
+    "discord": "https://discord.gg/myproject",
+    "imageUrl": "",
+    "createdAt": "2025-05-02T14:43:26.495Z",
+    "updatedAt": "2025-05-02T14:43:26.496Z"
+  }
